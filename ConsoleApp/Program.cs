@@ -1,38 +1,10 @@
 ﻿using ConsoleApp;
 
-//funkcja wygenerowana na podstawie nagłówka funkcji
-int Sum(float a, float b) //Tokenizacja: [Type: int] [Identifier: Sum] [Punctuation: (] [Type: float] [Identifier: a] [Punctuation: ,] [Type: float] [Identifier: b] [Punctuation: )]
-{
-    return (int)(a + b);
-}
-
-//funkcja wygenerowana na podstawie komentarza
-//substract two float numbers and return an integer. use block body syntax
-int Subtract(float a, float b)
-{
-    return (int)(a - b);
-}
-
-
-//multiply two numbers
-float Multiply(float a, float b)
-{
-    return (a * b);
-}
-
-//pierwotnie wygenerowana funkcja Multiply została zmodyfikowana przez użytkownika
-//co spwodowało, że model dostosował kolejny generowany kod (Divide) do zmian użytkownika
-//kontenst "nauki" copilot jest ograniczony do bieżącej sesji - np. wyłączenie IDE powoduje utratę kontekstu
-
-//divide two numbers
-float Divide(float a, float b)
-{
-    if (b == 0)
-    {
-        throw new DivideByZeroException("Cannot divide by zero.");
-    }
-    return (a / b);
-}
+// Przykłady użycia MathOperations
+Console.WriteLine(MathOperations.Sum(1.2f, 3.4f));
+Console.WriteLine(MathOperations.Subtract(5f, 2f));
+Console.WriteLine(MathOperations.Multiply(2f, 3.5f));
+Console.WriteLine(MathOperations.Divide(10f, 2f));
 
 Point3D CreatePoint(float[] tab)
 {
