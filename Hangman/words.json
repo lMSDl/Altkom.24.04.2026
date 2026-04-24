@@ -1,0 +1,55 @@
+{
+  "languages": {
+    "english": {
+      "animals": [
+        "elephant", "giraffe", "penguin", "dolphin", "crocodile",
+        "butterfly", "kangaroo", "cheetah", "flamingo", "hedgehog",
+        "leopard", "gorilla", "hamster", "parrot", "turtle"
+      ],
+      "countries": [
+        "poland", "germany", "france", "brazil", "australia",
+        "canada", "portugal", "argentina", "thailand", "norway",
+        "sweden", "finland", "denmark", "austria", "belgium"
+      ],
+      "technology": [
+        "computer", "keyboard", "monitor", "software", "database",
+        "algorithm", "compiler", "network", "interface", "framework",
+        "variable", "function", "debugger", "repository", "container"
+      ]
+    },
+    "polish": {
+      "zwierzeta": [
+        "slon", "zyrafa", "pingwin", "delfin", "krokodyl",
+        "motyl", "kangur", "gepard", "flaming", "jez",
+        "lampart", "goryl", "chomik", "papuga", "zolw"
+      ],
+      "kraje": [
+        "polska", "niemcy", "francja", "brazylia", "australia",
+        "kanada", "portugalia", "argentyna", "tajlandia", "norwegia",
+        "szwecja", "finlandia", "dania", "austria", "belgia"
+      ],
+      "technologia": [
+        "komputer", "klawiatura", "monitor", "oprogramowanie", "baza",
+        "algorytm", "kompilator", "siec", "interfejs", "framework",
+        "zmienna", "funkcja", "debuger", "repozytorium", "kontener"
+      ]
+    },
+    "german": {
+      "tiere": [
+        "elefant", "giraffe", "pinguin", "delphin", "krokodil",
+        "schmetterling", "kaenguru", "gepard", "flamingo", "igel",
+        "leopard", "gorilla", "hamster", "papagei", "schildkroete"
+      ],
+      "laender": [
+        "polen", "deutschland", "frankreich", "brasilien", "australien",
+        "kanada", "portugal", "argentinien", "thailand", "norwegen",
+        "schweden", "finnland", "daenemark", "oesterreich", "belgien"
+      ],
+      "technologie": [
+        "computer", "tastatur", "monitor", "software", "datenbank",
+        "algorithmus", "compiler", "netzwerk", "schnittstelle", "framework",
+        "variable", "funktion", "debugger", "repository", "container"
+      ]
+    }
+  }
+}
