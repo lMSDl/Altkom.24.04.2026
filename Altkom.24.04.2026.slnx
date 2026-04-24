@@ -1,5 +1,9 @@
 <Solution>
+  <Project Path="BenchmarkSuite1/BenchmarkSuite1.csproj" />
   <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="ConsoleApp_Debug/ConsoleApp_Debug.csproj" Id="4ed6f2fe-5212-458a-b53a-dafb0027e281" />
+  <Project Path="ConsoleApp_Profiler/ConsoleApp_Profiler.csproj" Id="78440944-96b6-4dfe-8f26-e3e6141c1ebe" />
+  <Project Path="Hangman.UnitTests/Hangman.UnitTests.csproj" Id="ec5849b9-51dc-4c61-b947-9c8b950d2cf3" />
   <Project Path="Hangman/Hangman.csproj" />
   <Project Path="Models/Models.csproj" />
   <Project Path="WebApp/WebApp.csproj" Id="17c3a58e-14a6-45fe-b358-6f91071f89c5" />

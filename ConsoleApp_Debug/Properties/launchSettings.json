@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp_Debug": {
+      "commandName": "Project",
+      "commandLineArgs": "2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8"
+    }
+  }
+}
